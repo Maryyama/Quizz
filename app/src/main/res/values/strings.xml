@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="accueil"> Bienvenue sur QuizzApp!</string>
+
+
+    <string name="quizz1"> Question</string>
+    <string name="q1">Saint-Louis est la capitale du Sénégal</string>
+    <string name="btntrue1"> True</string>
+    <string name="btnfalse1"> False</string>
+
+    <string name="quizz2"> Question</string>
+    <string name="q2">Le riz aux poissons est le plat préféré des Sénégalais</string>
+    <string name="q3">Le riz aux poissons est le plat préféré des Gambiens</string>
+    <string name="q4">Java est une langage orientée objet</string>
+    <string name="q5">Il faut etre excellent en java pour ouvoir faire du développement mobile</string>
+    <string name="q6">NoSQL signifie no SQL</string>
+    <string name="q7">N1SQL signifie nickel</string>
+    <string name="btntrue2"> True</string>
+    <string name="btnfalse2"> False</string>
+
+
+
+</resources>
